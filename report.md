@@ -31,27 +31,16 @@ I’ve also created two graphs to show the relationships between the **year** an
 
 Based on the data, there are overwhelmingly high numbers of campaigns that attract 0-500 backers, no matter whether they are successful or unsuccessful.
 
-|Successful Campaigns||
-| --- | --- |
-| mean number of backers	| 851 |
-| median number of backers | 201 |
-| minimum number of backers	| 16 |
-| maximum number of backers	| 7295 |
-| variance of the number of backers	| 1606216.59 |
-| standard deviation of the number of backers | 1267.37 |
-| **standard deviation / mean ratio** | **1.49** |
-| **standard deviation / median ratio** | **6.31** |
-
-|Unsuccessful Campaigns| |
-| --- | --- |
-| mean number of backers | 586 |
-| median number of backers | 114.5 |
-| minimum number of backers | 0 |
-| maximum number of backers | 6080 |
-| variance of the number of backers | 924113.45 |
-| standard deviation of the number of backers | 961.31 |
-| **standard deviation / mean ratio** | **1.64** |
-| **standard deviation / median ratio** | **8.40** |
+| | Successful Campaigns | Unsuccessful Campaigns |
+| --- | --- | --- |
+| mean number of backers	| 851 | 586 |
+| median number of backers | 201 | 114.5 |
+| minimum number of backers	| 16 | 0 |
+| maximum number of backers	| 7295 | 6080 |
+| variance of the number of backers	| 1606216.59 | 924113.45 |
+| standard deviation of the number of backers | 1267.37 | 961.31 |
+| **standard deviation / mean ratio** | **1.49** | **1.64** |
+| **standard deviation / median ratio** | **6.31** | **8.40** |
 
 The **mean** number of backers for **successful campaigns** and **unsuccessful campaigns** are **851** and **586** respectively. The figures are much **higher than the median**. The mean is heavily affected by the outliers.
 The **standard deviation** for **successful campaigns** and **unsuccessful campaigns** are **1267** and **961** respectively. They are **1.49 times** and **1.64 times the mean**. It suggests that there is a **heavy-tailed distribution**.
