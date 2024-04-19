@@ -19,10 +19,12 @@ Another limitation is that though we may find some trends in the data, we are un
 ## What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
 Improving the presentation of data is essential. For example, I displayed the information in a nested table to clearly show both the data for both parent categories and sub-categories.
+
 ![improvement1](images/improvement1.png)
  
 
 I’ve also created two graphs to show the relationships between the **year** and (a) the **number of campaigns** as well as (b) the **success rate** of the campaigns. This helps to show the trend of whether (a) crowdfunding campaigns have gained/lost **popularity** and (b) whether the **rate of success** has changed over the years. I presented the **“total backer count”** and **“success rate”** of campaigns in two separate graphs to show that both data are important in their own rights. Presenting data according to the **year** may give a different insight from presenting it according to the month of the year.
+
 ![improvement2](images/improvement2.png)
  
 ## Use your data to determine whether the mean or the median better summarizes the data.
