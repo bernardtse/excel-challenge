@@ -1,4 +1,5 @@
-# excel-challenge - Crowdfunding Data Analysis with Microsoft Excel
+# excel-challenge
+Crowdfunding Data Analysis with Microsoft Excel
 
 ## Contents
 1. [Overview](#1-overview)
