@@ -15,12 +15,14 @@ This repository contains an Excel file that features a series of analyses perfor
 
 Conditional formatting was applied to the `Outcome` and `Percent Funded` columns to visually highlight the campaign results and funding progress. Additionally, formulas such as `COUNTIFS()`, `AVERAGE()`, and `STDEV()` were used to calculate key metrics, including success rates and average donations. Pivot tables and charts were then created to summarise and visualise trends in the data, such as the number of successful campaigns across different categories and the relationship between campaign goals and outcomes. These methods collectively helped uncover patterns and provided valuable insights into the crowdfunding data.
 
+![Conditional Formatting](images/conditional_formatting.png)
+
 ## 2. Repository
 
 The repository includes the following files:
 - `CrowdfundingBook.xlsx`: This file contains the dataset of 1,000 sample crowdfunding campaigns. The data has been modified with added columns for analysis.
-- [`report.md`](report.md): This file contains the analysis report, detailing conclusions drawn from the dataset and visualisations.
-- [`images/`](images): This folder contains screenshots that are featured in [`report.md`](report.md).
+- [`REPORT.md`](REPORT.md): This file contains the analysis report, detailing conclusions drawn from the dataset and visualisations.
+- [`images/`](images): This folder contains screenshots that are featured in [`REPORT.md`](REPORT.md).
 
 ## 3. Deployment
 
@@ -28,7 +30,7 @@ To work with the data analysis:
 1. Clone this repository to your local machine.
 2. Open `CrowdfundingBook.xlsx` using Microsoft Excel.
 3. View and interact with the analysis created in the workbook, including pivot tables, charts, and various new columns.
-4. Check the [`report.md`](report.md) file for a detailed analysis of the findings.
+4. Check the [`REPORT.md`](REPORT.md) file for a detailed analysis of the findings.
 
 ## 4. Data Analysis
 
@@ -43,8 +45,9 @@ The analysis was based on the dataset of 1,000 crowdfunding campaigns. Various E
 
 Through these methods, key insights into crowdfunding success were uncovered, such as how certain categories performed better than others and how campaign goals affected the likelihood of success.
 
-Further analysis can be found in the [`report.md`](report.md) file.
+Further analysis can be found in the [`REPORT.md`](REPORT.md) file.
 
+![Pivot Table](images/pivot_table.png)
 
 ## 5. References
 
