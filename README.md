@@ -11,7 +11,7 @@ Crowdfunding Data Analysis with Microsoft Excel
 
 ## 1. Overview
 
-This repository contains an Excel file that features a series of analyses performed on crowdfunding campaign data. The data, obtained from a dataset of 1,000 sample projects, has been processed to uncover insights into market trends, campaign outcomes, and other related metrics. The aim of the project is to analyse various factors that determine the success or failure of crowdfunding campaigns.
+This repository contains an Excel file that features a series of analyses performed on crowdfunding campaign data. The data, obtained from a dataset of 1,000 sample projects, has been processed to uncover insights into market trends, campaign outcomes, and other related metrics. The aim of this challenge is to analyse various factors that determine the success or failure of crowdfunding campaigns.
 
 Conditional formatting was applied to the `Outcome` and `Percent Funded` columns to visually highlight the campaign results and funding progress. Additionally, formulas such as `COUNTIFS()`, `AVERAGE()`, and `STDEV()` were used to calculate key metrics, including success rates and average donations. Pivot tables and charts were then created to summarise and visualise trends in the data, such as the number of successful campaigns across different categories and the relationship between campaign goals and outcomes. These methods collectively helped uncover patterns and provided valuable insights into the crowdfunding data.
 
