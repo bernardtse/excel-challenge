@@ -20,9 +20,9 @@ Conditional formatting was applied to the `Outcome` and `Percent Funded` columns
 ## 2. Repository
 
 The repository includes the following files:
-- `crowdfunding_book.xlsx`: This file contains the dataset of 1,000 sample crowdfunding campaigns. The data has been modified with added columns for analysis.
-- [`REPORT.md`](REPORT.md): This file contains the analysis report, detailing conclusions drawn from the dataset and visualisations.
-- [`images/`](images): This folder contains screenshots that are featured in [`REPORT.md`](REPORT.md).
+- `crowdfunding_book.xlsx` - This file contains the dataset of 1,000 sample crowdfunding campaigns. The data has been modified with added columns for analysis
+- [`REPORT.md`](REPORT.md) - This file contains the analysis report, detailing conclusions drawn from the dataset and visualisations
+- [`images/`](images) - This folder contains screenshots that are featured in [`REPORT.md`](REPORT.md)
 
 ## 3. Deployment
 
